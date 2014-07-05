@@ -1,7 +1,7 @@
 FloatingActionButton
 ====================
 
-A port of [Faiz Malkani's][faiz] [FloatingActionButton][fab] backport, which backports the Floating Action Button from Android L to JellyBean and KitKat.
+A port of [Faiz Malkani's][faiz] [FloatingActionButton][fab] backport, which backports the Floating Action Button from Android L to API 15 and up.
 
 Drawables contained in the FAB are 24dp, and this is the preferred size.
 
