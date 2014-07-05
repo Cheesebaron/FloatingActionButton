@@ -50,7 +50,7 @@ Instructions
     fab.FabDrawable = Resources.GetDrawable(Resource.Drawable.ic_my_fab);
     ```
 
-4. Use `Hide()` and `Show()` to hide and show the FAB. Use the `Alpha` to set the transparency. Assign the `Click` event to handle user clicks on the FAB.
+4. Use `Hide()` and `Show()` to hide and show the FAB. Use the `Alpha` property to set the transparency. Assign the `Click` event to handle user clicks on the FAB.
 
 License
 =======
