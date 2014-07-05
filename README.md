@@ -5,7 +5,6 @@ A port of [Faiz Malkani's][faiz] [FloatingActionButton][fab] backport, which bac
 
 Drawables contained in the FAB are 24dp, and this is the preferred size.
 
-![ss1][ss1]
 ![ss2][ss2]
 
 Instructions
